@@ -13,5 +13,5 @@ This repo contains a custom app for automated CFD trading based on twitter signa
 4. Hold and monitor the position until trailing stop level or trailing stop loss is hit.
 5. Close the position.
 
-The main entity of this project is the `MKTClient` class in `utils_platform/mclient.py`.
+The main entity of this project is the `MKTClient` class in `utils_platform/mclient.py`. <br>
 Apart from the app components, the commited code is intentionally incomplete.
